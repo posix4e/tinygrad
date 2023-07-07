@@ -35,6 +35,7 @@ setup(name='tinygrad',
         'testing': [
             "torch",
             "pytest",
+            "pytest-cov",
             "pytest-xdist",
             "onnx",
             "onnx2torch",
