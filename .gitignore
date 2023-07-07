@@ -31,3 +31,5 @@ datasets/kits/
 datasets/COCO/
 datasets/audio*
 venv
+
+junit/
